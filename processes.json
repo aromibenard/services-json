@@ -1,0 +1,31 @@
+{
+    "total_size": 4,
+    "type_id": 3,
+    "offset": 0,
+    "services": [
+        {
+            "id": 1,
+            "name": "Schedule a Pickup",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj8axFO_-f3RdI-00VRZ2zwf4hroGix1urmg&usqp=CAU",
+            "type_id": 3
+        },
+        {
+            "id": 2,
+            "name": "Report Missed Pickup",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUSBtYjoyZ9kVqdl65IdLJINzKkV649lLKA&usqp=CAU",
+            "type_id": 3
+        },
+        {
+            "id": 3,
+            "name": "Payments & Order History",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbQZ3-oGq_oPn7BKGE4WArIUnRPfzaX0QXyA1Ydxme7ewK5QgItHU_0jVON_JNXuCrYA&usqp=CAU",
+            "type_id": 3
+        },
+        {
+            "id": 4,
+            "name": "Support",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXykBbnT3vtr2UxnxsXEVqflc5mpN5sHKMzQ&usqp=CAU",
+            "type_id": 3
+        }
+    ]
+}
