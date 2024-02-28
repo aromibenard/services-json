@@ -14,30 +14,6 @@
             "created_at": "2024-01-16 11:47:08",
             "updated_at": "2024-01-16 11:47:08",
             "type_id": 2
-        },
-        {
-            "id": 2,
-            "name": "Laundry Services",
-            "description": "Get the best laundry services in town. We offer the best laundry services at affordable prices.",
-            "price": 2500,
-            "stars": 5,
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoC5bHAtmEigQO5Cb7PKIJNEDLMXNrQcZ6Bg&usqp=CAU",
-            "location": "Nairobi, Kenya",
-            "created_at": "2024-01-16 12:35:59",
-            "updated_at": "2024-01-16 12:35:59",
-            "type_id": 2
-        },
-        {
-            "id": 3,
-            "name": "House Cleaning Services",
-            "description": "We offer the best house cleaning services in Nairobi. We have a team of professional cleaners who are well trained and experienced.",
-            "price": 3000,
-            "stars": 4,
-            "img": "https://bookdirtbusters.com/wp-content/uploads/2020/10/Cleaning-supplies.png",
-            "location": "Nairobi, Kenya",
-            "created_at": "2024-01-16 12:36:59",
-            "updated_at": "2024-01-16 12:36:59",
-            "type_id": 2
-        }  
+        }
     ]
 }
