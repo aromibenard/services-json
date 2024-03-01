@@ -14,18 +14,6 @@
             "name": "Report Missed Pickup",
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUSBtYjoyZ9kVqdl65IdLJINzKkV649lLKA&usqp=CAU",
             "type_id": 3
-        },
-        {
-            "id": 3,
-            "name": "Payments & Order History",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxbQZ3-oGq_oPn7BKGE4WArIUnRPfzaX0QXyA1Ydxme7ewK5QgItHU_0jVON_JNXuCrYA&usqp=CAU",
-            "type_id": 3
-        },
-        {
-            "id": 4,
-            "name": "Support",
-            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXykBbnT3vtr2UxnxsXEVqflc5mpN5sHKMzQ&usqp=CAU",
-            "type_id": 3
         }
     ]
 }
